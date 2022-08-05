@@ -1,8 +1,8 @@
 ## 天纪课程配套软件简体字版
 
-[link]https://zhuanlan.zhihu.com/p/550015791
+[link] https://zhuanlan.zhihu.com/p/550015791
 
-###更新说明
+### 更新说明
 -2022.8.5日 第三版（根据天机道书籍修改）
 修复庚生人 擎羊错误的问题
 修复癸生人 武曲化权问题
@@ -18,4 +18,4 @@
 
 ## HomeBrew国内安装方法
 
-[link]https://zhuanlan.zhihu.com/p/111014448
+[link] https://zhuanlan.zhihu.com/p/111014448
