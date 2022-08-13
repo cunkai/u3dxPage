@@ -1,6 +1,11 @@
 ## 天纪课程配套软件简体字版
 
-[https://zhuanlan.zhihu.com/p/550015791](https://zhuanlan.zhihu.com/p/550015791)
+~~https://zhuanlan.zhihu.com/p/550015791  此链接已被知乎删除了~~
+
+[https://www.bilibili.com/read/cv17935667](https://www.bilibili.com/read/cv17935667)
+
+蓝奏云：https://wwt.lanzouj.com/b03j7ayih
+提取码： h2vh
 
 > 更新说明
 > + 2022.8.6日 第四版
