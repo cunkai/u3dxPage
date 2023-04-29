@@ -1,6 +1,6 @@
-## 图片批量切割网站（我让gpt3.5写的开源）
+## 图片批量切割网站（我让AI写的，开源）
 
-地址：http://cunkai.gitee.io/mj/
+地址：[http://cunkai.gitee.io/mj/](http://cunkai.gitee.io/mj/)
 
 ## 天纪课程配套软件简体字版（我只是翻译到简体中文，软件自身bug修复起来不如重新写，大家学完还是用现代软件吧）
 
